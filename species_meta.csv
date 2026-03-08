@@ -1,22 +1,23 @@
 species_name,common_name,url,image,image_credit,iucn
-Cane Toad,Rhinella marina, https//www.frogid.net.au/frogs/rhinella-marina,,,Least Concern
-Copper-backed Toadlet,Pseudophryne raveni, https//www.frogid.net.au/frogs/pseudophryne-raveni,,,Least Concern
-Giant Barred Frog,Mixophyes iteratus, https//www.frogid.net.au/frogs/mixophyes-iteratus,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Giant_Barred.jpeg,Cameron Taggart,Vulnerable
-Great Barred Frog,Mixophyes fasciolatus, https//www.frogid.net.au/frogs/mixophyes-fasciolatus,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Great_Barred.jpeg,Cameron Taggart,Least Concern
-Eastern Stony Creek Frog,Litoria wilcoxii, https//www.frogid.net.au/frogs/litoria-wilcoxii,,,Least Concern
-Tyler's Tree Frog,Litoria tyleri, https//www.frogid.net.au/frogs/litoria-tyleri,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/tylers laughing.jpeg,Emily Thompson,Least Concern
-Robust Bleating Tree Frog,Litoria rubella, https//www.frogid.net.au/frogs/litoria-rubella,,,Least Concern
-Peron's Tree Frog,Litoria peronii, https//www.frogid.net.au/frogs/litoria-peronii,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/peronii.jpeg,Jono Hooper,Least Concern
-Pearson's Stream Frog,Litoria pearsoniana, https//www.frogid.net.au/frogs/litoria-pearsoniana,,,Least Concern
-Wallum Sedge Frog,Litoria olongburensis, https//www.frogid.net.au/frogs/litoria-olongburensis,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Litoria%20olongburensis.jpeg,Indra Bone,Least Concern
-Striped Rocket Frog,Litoria nasuta, https//www.frogid.net.au/frogs/litoria-nasuta,,,Least Concern
-Graceful Tree Frog,Litoria gracilenta, https//www.frogid.net.au/frogs/litoria-gracilenta,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Litoris%20gracilenta.jpeg,Cameron Taggart,Least Concern
-Wallum Rocket Frog,Litoria freycineti, https//www.frogid.net.au/frogs/litoria-freycineti,,,Least Concern
-Eastern Dwarf Tree Frog,Litoria fallax, https//www.frogid.net.au/frogs/litoria-fallax,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Liroria%20fallax.jpeg,,Least Concern
-Red Tree Frog,Litoria dentata, https//www.frogid.net.au/frogs/litoria-dentata,,,Least Concern
-Green Tree Frog,Litoria caerulea, https//www.frogid.net.au/frogs/litoria-caerulea,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Green_Tree_Frog.jpeg,Cameron Taggart,Least Concern
-Superb Banjo Frog,Limnodynastes terraereginae, https//www.frogid.net.au/frogs/limnodynastes-terraereginae,,,Least Concern
-Striped Marsh Frog,Limnodynastes peronii, https//www.frogid.net.au/frogs/limnodynastes-peronii,,,Least Concern
-Wallum Froglet,Crinia tinnula, https//www.frogid.net.au/frogs/crinia-tinnula,,,Least Concern
-Eastern Sign-bearing Froglet,Crinia parinsignifera, https//www.frogid.net.au/frogs/crinia-parinsignifera,,,Least Concern
-Tusked Frog,Adelotus brevis, https//www.frogid.net.au/frogs/adelotus-brevis,,,Least Concern
+Cane Toad,Rhinella marina, https://www.frogid.net.au/frogs/rhinella-marina,,,Least Concern
+Copper-backed Toadlet,Pseudophryne raveni, https://www.frogid.net.au/frogs/pseudophryne-raveni,,,Least Concern
+Giant Barred Frog,Mixophyes iteratus, https://www.frogid.net.au/frogs/mixophyes-iteratus,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Giant_Barred.jpeg,Cameron Taggart,Vulnerable
+Great Barred Frog,Mixophyes fasciolatus, https://www.frogid.net.au/frogs/mixophyes-fasciolatus,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Great_Barred.jpeg,Cameron Taggart,Least Concern
+Eastern Stony Creek Frog,Litoria wilcoxii, https://www.frogid.net.au/frogs/litoria-wilcoxii,,,Least Concern
+Tyler's Tree Frog,Litoria tyleri, https://www.frogid.net.au/frogs/litoria-tyleri,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/tylers laughing.jpeg,Emily Thompson,Least Concern
+Robust Bleating Tree Frog,Litoria rubella, https://www.frogid.net.au/frogs/litoria-rubella,,,Least Concern
+Peron's Tree Frog,Litoria peronii, https://www.frogid.net.au/frogs/litoria-peronii,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/peronii.jpeg,Jono Hooper,Least Concern
+Pearson's Stream Frog,Litoria pearsoniana, https://www.frogid.net.au/frogs/litoria-pearsoniana,,,Least Concern
+Wallum Sedge Frog,Litoria olongburensis, https://www.frogid.net.au/frogs/litoria-olongburensis,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Litoria%20olongburensis.jpeg,Indra Bone,Least Concern
+Striped Rocket Frog,Litoria nasuta, https://www.frogid.net.au/frogs/litoria-nasuta,,,Least Concern
+Graceful Tree Frog,Litoria gracilenta, https://www.frogid.net.au/frogs/litoria-gracilenta,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Litoris%20gracilenta.jpeg,Cameron Taggart,Least Concern
+Wallum Rocket Frog,Litoria freycineti, https://www.frogid.net.au/frogs/litoria-freycineti,,,Least Concern
+Eastern Dwarf Tree Frog,Litoria fallax, https://www.frogid.net.au/frogs/litoria-fallax,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Liroria%20fallax.jpeg,,Least Concern
+Red Tree Frog,Litoria dentata, https://www.frogid.net.au/frogs/litoria-dentata,,,Least Concern
+Green Tree Frog,Litoria caerulea, https://www.frogid.net.au/frogs/litoria-caerulea,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Green_Tree_Frog.jpeg,Cameron Taggart,Least Concern
+Superb Banjo Frog,Limnodynastes terraereginae, https://www.frogid.net.au/frogs/limnodynastes-terraereginae,,,Least Concern
+Striped Marsh Frog,Limnodynastes peronii, https://www.frogid.net.au/frogs/limnodynastes-peronii,,,Least Concern
+Wallum Froglet,Crinia tinnula, https://www.frogid.net.au/frogs/crinia-tinnula,,,Least Concern
+Eastern Sign-bearing Froglet,Crinia parinsignifera, https://www.frogid.net.au/frogs/crinia-parinsignifera,,,Least Concern
+Tusked Frog,Adelotus brevis, https://www.frogid.net.au/frogs/adelotus-brevis,,,Least Concern
+
