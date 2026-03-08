@@ -1,260 +1,260 @@
-site_number,Site_Name,Lat,Lon,Year,Total_Count,Species_Name,Common_Name,Frog_ID_URL
-1,  Coolum,-26.50674,153.091065,2014,2,  Crinia tinnula,  Wallum Froglet,  https://www.frogid.net.au/frogs/crinia-tinnula
-2,  Dulong,-26.64,152.9,2014,5,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Coolum,-26.50674,153.091065,2014,2,  Litoria caerulea,  Green Tree Frog,  https://www.frogid.net.au/frogs/litoria-caerulea
-1,  Eerwah Vale,-26.47,152.89,2014,3,  Litoria caerulea,  Green Tree Frog,  https://www.frogid.net.au/frogs/litoria-caerulea
-2,  Coolum,-26.50674,153.091065,2014,9,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Dulong,-26.64,152.9,2014,3,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Yaroomba,-26.550433,153.095711,2014,4,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Coolum,-26.50674,153.091065,2014,2,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-3,  Dulong,-26.64,152.9,2014,10,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-1,  Dulong,-26.64,152.9,2014,3,  Mixophyes iteratus,  Giant Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-iteratus
-2,  Coolum,-26.50674,153.091065,2014,4,  Pseudophryne raveni,  Copper-backed Toadlet,  https://www.frogid.net.au/frogs/pseudophryne-raveni
-3,  Coolum,-26.50674,153.091065,2014,2,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Dulong,-26.64,152.9,2014,2,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Yaroomba,-26.550433,153.095711,2014,5,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Eerwah Vale,-26.47,152.89,2015,4,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-1,  Coolum,-26.50674,153.091065,2015,18,  Crinia tinnula,  Wallum Froglet,  https://www.frogid.net.au/frogs/crinia-tinnula
-2,  Dulong,-26.64,152.9,2015,2,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Yaroomba,-26.550433,153.095711,2015,20,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Eerwah Vale,-26.47,152.89,2015,3,  Litoria caerulea,  Green Tree Frog,  https://www.frogid.net.au/frogs/litoria-caerulea
-2,  Coolum,-26.50674,153.091065,2015,15,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Dulong,-26.64,152.9,2015,5,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Eerwah Vale,-26.47,152.89,2015,4,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Yaroomba,-26.550433,153.095711,2015,4,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Eerwah Vale,-26.47,152.89,2015,3,  Litoria latopalmata,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-latopalmata
-1,  Coolum,-26.50674,153.091065,2015,13,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-2,  Eerwah Vale,-26.47,152.89,2015,3,  Litoria peronii,  Peron's Tree Frog,  https://www.frogid.net.au/frogs/litoria-peronii
-3,  Eerwah Vale,-26.47,152.89,2015,3,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-1,  Eerwah Vale,-26.47,152.89,2015,24,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-2,  Eerwah Vale,-26.47,152.89,2015,2,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-3,  Dulong,-26.64,152.9,2015,3,  Mixophyes iteratus,  Giant Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-iteratus
-1,  Coolum,-26.50674,153.091065,2015,4,  Pseudophryne raveni,  Copper-backed Toadlet,  https://www.frogid.net.au/frogs/pseudophryne-raveni
-2,  Eerwah Vale,-26.47,152.89,2015,43,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Dulong,-26.64,152.9,2016,4,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-1,  Coolum,-26.50674,153.091065,2016,31,  Crinia tinnula,  Wallum Froglet,  https://www.frogid.net.au/frogs/crinia-tinnula
-2,  Dulong,-26.64,152.9,2016,2,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Sippy Downs,-26.725281,153.07626,2016,4,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Yaroomba,-26.550433,153.095711,2016,8,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-2,  Eerwah Vale,-26.47,152.89,2016,3,  Litoria dentata,  Robust Bleating Tree Frog,  https://www.frogid.net.au/frogs/litoria-dentata
-3,  Coolum,-26.50674,153.091065,2016,4,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Dulong,-26.64,152.9,2016,7,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Eerwah Vale,-26.47,152.89,2016,7,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Sippy Downs,-26.725281,153.07626,2016,49,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Yaroomba,-26.550433,153.095711,2016,5,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Yaroomba,-26.550433,153.095711,2016,2,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Coolum,-26.50674,153.091065,2016,2,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-1,  Yaroomba,-26.550433,153.095711,2016,6,  Litoria latopalmata,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-latopalmata
-2,  Coolum,-26.50674,153.091065,2016,7,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-3,  Eerwah Vale,-26.47,152.89,2016,3,  Litoria peronii,  Peron's Tree Frog,  https://www.frogid.net.au/frogs/litoria-peronii
-1,  Eerwah Vale,-26.47,152.89,2016,8,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-2,  Dulong,-26.64,152.9,2016,3,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-3,  Eerwah Vale,-26.47,152.89,2016,2,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-1,  Dulong,-26.64,152.9,2016,12,  Mixophyes iteratus,  Giant Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-iteratus
-2,  Coolum,-26.50674,153.091065,2016,4,  Pseudophryne raveni,  Copper-backed Toadlet,  https://www.frogid.net.au/frogs/pseudophryne-raveni
-3,  Coolum,-26.50674,153.091065,2016,2,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Eerwah Vale,-26.47,152.89,2016,85,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Sippy Downs,-26.725281,153.07626,2016,86,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Yaroomba,-26.550433,153.095711,2016,29,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Dulong,-26.64,152.9,2017,2,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-2,  Coolum,-26.50674,153.091065,2017,14,  Crinia tinnula,  Wallum Froglet,  https://www.frogid.net.au/frogs/crinia-tinnula
-3,  Yaroomba,-26.550433,153.095711,2017,6,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Yaroomba,-26.550433,153.095711,2017,2,  Limnodynastes terraereginae,  Superb Banjo Frog,  https://www.frogid.net.au/frogs/limnodynastes-terraereginae
-2,  Coolum,-26.50674,153.091065,2017,6,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Dulong,-26.64,152.9,2017,6,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Eerwah Vale,-26.47,152.89,2017,17,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Yaroomba,-26.550433,153.095711,2017,2,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Yaroomba,-26.550433,153.095711,2017,2,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Coolum,-26.50674,153.091065,2017,2,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-2,  Dulong,-26.64,152.9,2017,3,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-3,  Eerwah Vale,-26.47,152.89,2017,2,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-1,  Eerwah Vale,-26.47,152.89,2017,2,  Litoria nasuta,  Striped Rocket Frog,  https://www.frogid.net.au/frogs/litoria-nasuta
-2,  Coolum,-26.50674,153.091065,2017,4,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-3,  Dulong,-26.64,152.9,2017,11,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-1,  Eerwah Vale,-26.47,152.89,2017,4,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-2,  Eerwah Vale,-26.47,152.89,2017,3,  LItoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-3,  Coolum,-26.50674,153.091065,2017,3,  Pseudophryne raveni,  Copper-backed Toadlet,  https://www.frogid.net.au/frogs/pseudophryne-raveni
-1,  Coolum,-26.50674,153.091065,2017,4,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Eerwah Vale,-26.47,152.89,2017,119,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Yaroomba,-26.550433,153.095711,2017,23,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Dulong,-26.64,152.9,2018,2,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-2,  Coolum,-26.50674,153.091065,2018,9,  Crinia tinnula,  Wallum Froglet,  https://www.frogid.net.au/frogs/crinia-tinnula
-3,  Coolum,-26.50674,153.091065,2018,8,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Eerwah Vale,-26.47,152.89,2018,7,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-2,  Sippy Downs,-26.725281,153.07626,2018,25,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Eerwah Vale,-26.47,152.89,2018,2,  Litoria caerulea,  Green Tree Frog,  https://www.frogid.net.au/frogs/litoria-caerulea
-1,  Coolum,-26.50674,153.091065,2018,7,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Dulong,-26.64,152.9,2018,4,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Eerwah Vale,-26.47,152.89,2018,21,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Sippy Downs,-26.725281,153.07626,2018,41,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Yaroomba,-26.550433,153.095711,2018,15,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Coolum,-26.50674,153.091065,2018,20,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-1,  Dulong,-26.64,152.9,2018,2,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-2,  Eerwah Vale,-26.47,152.89,2018,2,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-3,  Coolum,-26.50674,153.091065,2018,2,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-1,  Yaroomba,-26.550433,153.095711,2018,10,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-2,  Dulong,-26.64,152.9,2018,8,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-3,  Eerwah Vale,-26.47,152.89,2018,2,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-1,  Dulong,-26.64,152.9,2018,2,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-2,  Dulong,-26.64,152.9,2018,2,  Mixophyes iteratus,  Giant Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-iteratus
-3,  Coolum,-26.50674,153.091065,2018,5,  Pseudophryne raveni,  Copper-backed Toadlet,  https://www.frogid.net.au/frogs/pseudophryne-raveni
-1,  Coolum,-26.50674,153.091065,2018,7,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Dulong,-26.64,152.9,2018,5,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Eerwah Vale,-26.47,152.89,2018,36,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Sippy Downs,-26.725281,153.07626,2018,116,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Yaroomba,-26.550433,153.095711,2018,5,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Dulong,-26.64,152.9,2019,3,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-1,  Coolum,-26.50674,153.091065,2019,7,  Crinia tinnula,  Wallum Froglet,  https://www.frogid.net.au/frogs/crinia-tinnula
-2,  Eerwah Vale,-26.47,152.89,2019,8,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Sippy Downs,-26.725281,153.07626,2019,8,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Yaroomba,-26.550433,153.095711,2019,38,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-2,  Eerwah Vale,-26.47,152.89,2019,4,  Litoria caerulea,  Green Tree Frog,  https://www.frogid.net.au/frogs/litoria-caerulea
-3,  Coolum,-26.50674,153.091065,2019,11,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Dulong,-26.64,152.9,2019,14,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Eerwah Vale,-26.47,152.89,2019,22,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Sippy Downs,-26.725281,153.07626,2019,39,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Yaroomba,-26.550433,153.095711,2019,10,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Coolum,-26.50674,153.091065,2019,2,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-3,  Eerwah Vale,-26.47,152.89,2019,5,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-1,  Yaroomba,-26.550433,153.095711,2019,4,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-2,  Coolum,-26.50674,153.091065,2019,6,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-3,  Dulong,-26.64,152.9,2019,2,  Litoria pearsoniana,  Pearson's Stream Frog,  https://www.frogid.net.au/frogs/litoria-pearsoniana
-1,  Eerwah Vale,-26.47,152.89,2019,3,  Litoria peronii,  Peron's Tree Frog,  https://www.frogid.net.au/frogs/litoria-peronii
-2,  Dulong,-26.64,152.9,2019,17,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-3,  Coolum,-26.50674,153.091065,2019,13,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Dulong,-26.64,152.9,2019,4,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Eerwah Vale,-26.47,152.89,2019,45,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Sippy Downs,-26.725281,153.07626,2019,138,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Yaroomba,-26.550433,153.095711,2019,35,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Dulong,-26.64,152.9,2020,2,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-3,  Coolum,-26.50674,153.091065,2020,7,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Sippy Downs,-26.725281,153.07626,2020,22,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-2,  Yaroomba,-26.550433,153.095711,2020,38,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Eerwah Vale,-26.47,152.89,2020,2,  Litoria caerulea,  Green Tree Frog,  https://www.frogid.net.au/frogs/litoria-caerulea
-1,  Eerwah Vale,-26.47,152.89,2020,2,  Litoria dentata,  Robust Bleating Tree Frog,  https://www.frogid.net.au/frogs/litoria-dentata
-2,  Coolum,-26.50674,153.091065,2020,14,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Dulong,-26.64,152.9,2020,3,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Eerwah Vale,-26.47,152.89,2020,13,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Sippy Downs,-26.725281,153.07626,2020,15,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Yaroomba,-26.550433,153.095711,2020,44,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Coolum,-26.50674,153.091065,2020,2,  Litoria freycineti,  Wallum Rocket Frog,  https://www.frogid.net.au/frogs/litoria-freycineti
-2,  Coolum,-26.50674,153.091065,2020,16,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-3,  Yaroomba,-26.550433,153.095711,2020,5,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-1,  Coolum,-26.50674,153.091065,2020,2,  Litoria peronii,  Peron's Tree Frog,  https://www.frogid.net.au/frogs/litoria-peronii
-2,  Eerwah Vale,-26.47,152.89,2020,3,  Litoria peronii,  Peron's Tree Frog,  https://www.frogid.net.au/frogs/litoria-peronii
-3,  Yaroomba,-26.550433,153.095711,2020,19,  Litoria peronii,  Peron's Tree Frog,  https://www.frogid.net.au/frogs/litoria-peronii
-1,  Coolum,-26.50674,153.091065,2020,7,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-2,  Eerwah Vale,-26.47,152.89,2020,2,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-3,  Yaroomba,-26.550433,153.095711,2020,19,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-1,  Dulong,-26.64,152.9,2020,15,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-2,  Eerwah Vale,-26.47,152.89,2020,3,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-3,  Coolum,-26.50674,153.091065,2020,48,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Eerwah Vale,-26.47,152.89,2020,14,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Sippy Downs,-26.725281,153.07626,2020,143,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Yaroomba,-26.550433,153.095711,2020,15,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Coolum,-26.50674,153.091065,2021,8,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-2,  Sippy Downs,-26.725281,153.07626,2021,22,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Yaroomba,-26.550433,153.095711,2021,74,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Coolum,-26.50674,153.091065,2021,2,  Litoria caerulea,  Green Tree Frog,  https://www.frogid.net.au/frogs/litoria-caerulea
-2,  Coolum,-26.50674,153.091065,2021,77,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Sippy Downs,-26.725281,153.07626,2021,34,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Yaroomba,-26.550433,153.095711,2021,56,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Coolum,-26.50674,153.091065,2021,3,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-3,  Coolum,-26.50674,153.091065,2021,17,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-1,  Yaroomba,-26.550433,153.095711,2021,39,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-2,  Coolum,-26.50674,153.091065,2021,14,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Sippy Downs,-26.725281,153.07626,2021,41,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Yaroomba,-26.550433,153.095711,2021,35,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Dulong,-26.64,152.9,2022,3,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-3,  Coolum,-26.50674,153.091065,2022,2,  Crinia tinnula,  Wallum Froglet,  https://www.frogid.net.au/frogs/crinia-tinnula
-1,  Sippy Downs,-26.725281,153.07626,2022,3,  Crinia tinnula,  Wallum Froglet,  https://www.frogid.net.au/frogs/crinia-tinnula
-2,  Coolum,-26.50674,153.091065,2022,3,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Sippy Downs,-26.725281,153.07626,2022,11,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Yaroomba,-26.550433,153.095711,2022,85,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-2,  Yaroomba,-26.550433,153.095711,2022,2,  Litoria caerulea,  Green Tree Frog,  https://www.frogid.net.au/frogs/litoria-caerulea
-3,  Coolum,-26.50674,153.091065,2022,49,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Dulong,-26.64,152.9,2022,14,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Sippy Downs,-26.725281,153.07626,2022,42,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Yaroomba,-26.550433,153.095711,2022,52,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Coolum,-26.50674,153.091065,2022,3,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-2,  Yaroomba,-26.550433,153.095711,2022,7,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-3,  Coolum,-26.50674,153.091065,2022,2,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-1,  Yaroomba,-26.550433,153.095711,2022,43,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-2,  Dulong,-26.64,152.9,2022,10,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-3,  Dulong,-26.64,152.9,2022,8,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-1,  Dulong,-26.64,152.9,2022,3,  Mixophyes iteratus,  Giant Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-iteratus
-2,  Coolum,-26.50674,153.091065,2022,5,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Sippy Downs,-26.725281,153.07626,2022,19,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Yaroomba,-26.550433,153.095711,2022,32,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Dulong,-26.64,152.9,2023,3,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-3,  MRBBG,-26.71882,153.023028,2023,5,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-1,  Coolum,-26.50674,153.091065,2023,3,  Crinia tinnula,  Wallum Froglet,  https://www.frogid.net.au/frogs/crinia-tinnula
-2,  Coolum,-26.50674,153.091065,2023,2,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Sippy Downs,-26.725281,153.07626,2023,4,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Yaroomba,-26.550433,153.095711,2023,6,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-2,  Coolum,-26.50674,153.091065,2023,23,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Dulong,-26.64,152.9,2023,3,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Sippy Downs,-26.725281,153.07626,2023,30,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Yaroomba,-26.550433,153.095711,2023,4,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Coolum,-26.50674,153.091065,2023,34,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-1,  MRBBG,-26.71882,153.023028,2023,2,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-2,  Dulong,-26.64,152.9,2023,9,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-3,  Dulong,-26.64,152.9,2023,3,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-1,  MRBBG,-26.71882,153.023028,2023,6,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-2,  MRBBG,-26.71882,153.023028,2023,2,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-3,  Dulong,-26.64,152.9,2023,4,  Mixophyes iteratus,  Giant Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-iteratus
-1,  Coolum,-26.50674,153.091065,2023,6,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  MRBBG,-26.71882,153.023028,2023,21,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Sippy Downs,-26.725281,153.07626,2023,21,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Yaroomba,-26.550433,153.095711,2023,45,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Dulong,-26.64,152.9,2024,3,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-3,  MRBBG,-26.71882,153.023028,2024,6,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-1,  Sippy Downs,-26.725281,153.07626,2024,17,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-2,  Yaroomba,-26.550433,153.095711,2024,18,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  Coolum,-26.50674,153.091065,2024,39,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Dulong,-26.64,152.9,2024,3,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  Sippy Downs,-26.725281,153.07626,2024,30,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Yaroomba,-26.550433,153.095711,2024,36,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Coolum,-26.50674,153.091065,2024,3,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-2,  MRBBG,-26.71882,153.023028,2024,4,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-3,  Yaroomba,-26.550433,153.095711,2024,15,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-1,  Dulong,-26.64,152.9,2024,19,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-2,  Dulong,-26.64,152.9,2024,6,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-3,  MRBBG,-26.71882,153.023028,2024,27,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-1,  Dulong,-26.64,152.9,2024,6,  Mixophyes iteratus,  Giant Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-iteratus
-2,  Coolum,-26.50674,153.091065,2024,8,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Dulong,-26.64,152.9,2024,2,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  MRBBG,-26.71882,153.023028,2024,31,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Sippy Downs,-26.725281,153.07626,2024,73,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  Yaroomba,-26.550433,153.095711,2024,48,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Dulong,-26.64,152.9,2025,11,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-2,  Maleny,-26.760438,152.851298,2025,2,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-3,  MRBBG,-26.71882,153.023028,2025,5,  Adelotus brevis,  Tusked Frog,  https://www.frogid.net.au/frogs/adelotus-brevis
-1,  Dulong,-26.64,152.9,2025,6,  Crinia parinsignifera,  Eastern Sign-bearing Froglet,  https://www.frogid.net.au/frogs/crinia-parinsignifera
-2,  Dulong,-26.64,152.9,2025,2,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-3,  MRBBG,-26.71882,153.023028,2025,7,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-1,  Yaroomba,-26.550433,153.095711,2025,5,  Limnodynastes peronii,  Striped Marsh Frog,  https://www.frogid.net.au/frogs/limnodynastes-peronii
-2,  Maleny,-26.760438,152.851298,2025,2,  Litoria caerulea,  Green Tree Frog,  https://www.frogid.net.au/frogs/litoria-caerulea
-3,  Coolum,-26.50674,153.091065,2025,31,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Dulong,-26.64,152.9,2025,2,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-2,  MRBBG,-26.71882,153.023028,2025,2,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-3,  Yaroomba,-26.550433,153.095711,2025,47,  Litoria fallax,  Eastern Dwarf Tree Frog,  https://www.frogid.net.au/frogs/litoria-fallax
-1,  Coolum,-26.50674,153.091065,2025,3,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-2,  Maleny,-26.760438,152.851298,2025,3,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-3,  MRBBG,-26.71882,153.023028,2025,2,  Litoria gracilenta,  Graceful Tree Frog,  https://www.frogid.net.au/frogs/litoria-gracilenta
-1,  Coolum,-26.50674,153.091065,2025,2,  Litoria olongburensis,  Wallum Sedge Frog,  https://www.frogid.net.au/frogs/litoria-olongburensis
-2,  Yaroomba,-26.550433,153.095711,2025,2,  Litoria peronii,  Peron's Tree Frog,  https://www.frogid.net.au/frogs/litoria-peronii
-3,  Yaroomba,-26.550433,153.095711,2025,3,  Litoria rubella,  Red Tree Frog,  https://www.frogid.net.au/frogs/litoria-rubella
-1,  Yaroomba,-26.550433,153.095711,2025,15,  Litoria tyleri,  Tyler's Tree Frog,  https://www.frogid.net.au/frogs/litoria-tyleri
-2,  Dulong,-26.64,152.9,2025,10,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-3,  Maleny,-26.760438,152.851298,2025,2,  Litoria wilcoxii,  Eastern Stony Creek Frog,  https://www.frogid.net.au/frogs/litoria-wilcoxii
-1,  Dulong,-26.64,152.9,2025,17,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-2,  Maleny,-26.760438,152.851298,2025,81,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-3,  MRBBG,-26.71882,153.023028,2025,9,  Mixophyes fasciolatus,  Great Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
-1,  Dulong,-26.64,152.9,2025,12,  Mixophyes iteratus,  Giant Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-iteratus
-2,  Maleny,-26.760438,152.851298,2025,46,  Mixophyes iteratus,  Giant Barred Frog,  https://www.frogid.net.au/frogs/mixophyes-iteratus
-3,  Coolum,-26.50674,153.091065,2025,8,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Dulong,-26.64,152.9,2025,6,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-2,  Maleny,-26.760438,152.851298,2025,33,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-3,  MRBBG,-26.71882,153.023028,2025,11,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
-1,  Yaroomba,-26.550433,153.095711,2025,54,  Rhinella marina,  Cane Toad,  https://www.frogid.net.au/frogs/rhinella-marina
+site_number,Site_Name,Lat,Lon,Year,Common_Name,Species_Name,Total_Count,Frog_ID_URL
+1,  Coolum,-26.50674,153.091065,2014,  Wallum Froglet,  Crinia tinnula,2,  https://www.frogid.net.au/frogs/crinia-tinnula
+2,  Dulong,-26.64,152.9,2014,  Striped Marsh Frog,  Limnodynastes peronii,5,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Coolum,-26.50674,153.091065,2014,  Green Tree Frog,  Litoria caerulea,2,  https://www.frogid.net.au/frogs/litoria-caerulea
+1,  Eerwah Vale,-26.47,152.89,2014,  Green Tree Frog,  Litoria caerulea,3,  https://www.frogid.net.au/frogs/litoria-caerulea
+2,  Coolum,-26.50674,153.091065,2014,  Eastern Dwarf Tree Frog,  Litoria fallax,9,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Dulong,-26.64,152.9,2014,  Eastern Dwarf Tree Frog,  Litoria fallax,3,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Yaroomba,-26.550433,153.095711,2014,  Eastern Dwarf Tree Frog,  Litoria fallax,4,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Coolum,-26.50674,153.091065,2014,  Wallum Sedge Frog,  Litoria olongburensis,2,  https://www.frogid.net.au/frogs/litoria-olongburensis
+3,  Dulong,-26.64,152.9,2014,  Eastern Stony Creek Frog,  Litoria wilcoxii,10,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+1,  Dulong,-26.64,152.9,2014,  Giant Barred Frog,  Mixophyes iteratus,3,  https://www.frogid.net.au/frogs/mixophyes-iteratus
+2,  Coolum,-26.50674,153.091065,2014,  Copper-backed Toadlet,  Pseudophryne raveni,4,  https://www.frogid.net.au/frogs/pseudophryne-raveni
+3,  Coolum,-26.50674,153.091065,2014,  Cane Toad,  Rhinella marina,2,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Dulong,-26.64,152.9,2014,  Cane Toad,  Rhinella marina,2,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Yaroomba,-26.550433,153.095711,2014,  Cane Toad,  Rhinella marina,5,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Eerwah Vale,-26.47,152.89,2015,  Tusked Frog,  Adelotus brevis,4,  https://www.frogid.net.au/frogs/adelotus-brevis
+1,  Coolum,-26.50674,153.091065,2015,  Wallum Froglet,  Crinia tinnula,18,  https://www.frogid.net.au/frogs/crinia-tinnula
+2,  Dulong,-26.64,152.9,2015,  Striped Marsh Frog,  Limnodynastes peronii,2,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Yaroomba,-26.550433,153.095711,2015,  Striped Marsh Frog,  Limnodynastes peronii,20,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Eerwah Vale,-26.47,152.89,2015,  Green Tree Frog,  Litoria caerulea,3,  https://www.frogid.net.au/frogs/litoria-caerulea
+2,  Coolum,-26.50674,153.091065,2015,  Eastern Dwarf Tree Frog,  Litoria fallax,15,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Dulong,-26.64,152.9,2015,  Eastern Dwarf Tree Frog,  Litoria fallax,5,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Eerwah Vale,-26.47,152.89,2015,  Eastern Dwarf Tree Frog,  Litoria fallax,4,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Yaroomba,-26.550433,153.095711,2015,  Eastern Dwarf Tree Frog,  Litoria fallax,4,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Eerwah Vale,-26.47,152.89,2015,  Graceful Tree Frog,  Litoria latopalmata,3,  https://www.frogid.net.au/frogs/litoria-latopalmata
+1,  Coolum,-26.50674,153.091065,2015,  Wallum Sedge Frog,  Litoria olongburensis,13,  https://www.frogid.net.au/frogs/litoria-olongburensis
+2,  Eerwah Vale,-26.47,152.89,2015,  Peron's Tree Frog,  Litoria peronii,3,  https://www.frogid.net.au/frogs/litoria-peronii
+3,  Eerwah Vale,-26.47,152.89,2015,  Tyler's Tree Frog,  Litoria tyleri,3,  https://www.frogid.net.au/frogs/litoria-tyleri
+1,  Eerwah Vale,-26.47,152.89,2015,  Eastern Stony Creek Frog,  Litoria wilcoxii,24,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+2,  Eerwah Vale,-26.47,152.89,2015,  Great Barred Frog,  Mixophyes fasciolatus,2,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+3,  Dulong,-26.64,152.9,2015,  Giant Barred Frog,  Mixophyes iteratus,3,  https://www.frogid.net.au/frogs/mixophyes-iteratus
+1,  Coolum,-26.50674,153.091065,2015,  Copper-backed Toadlet,  Pseudophryne raveni,4,  https://www.frogid.net.au/frogs/pseudophryne-raveni
+2,  Eerwah Vale,-26.47,152.89,2015,  Cane Toad,  Rhinella marina,43,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Dulong,-26.64,152.9,2016,  Tusked Frog,  Adelotus brevis,4,  https://www.frogid.net.au/frogs/adelotus-brevis
+1,  Coolum,-26.50674,153.091065,2016,  Wallum Froglet,  Crinia tinnula,31,  https://www.frogid.net.au/frogs/crinia-tinnula
+2,  Dulong,-26.64,152.9,2016,  Striped Marsh Frog,  Limnodynastes peronii,2,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Sippy Downs,-26.725281,153.07626,2016,  Striped Marsh Frog,  Limnodynastes peronii,4,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Yaroomba,-26.550433,153.095711,2016,  Striped Marsh Frog,  Limnodynastes peronii,8,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+2,  Eerwah Vale,-26.47,152.89,2016,  Robust Bleating Tree Frog,  Litoria dentata,3,  https://www.frogid.net.au/frogs/litoria-dentata
+3,  Coolum,-26.50674,153.091065,2016,  Eastern Dwarf Tree Frog,  Litoria fallax,4,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Dulong,-26.64,152.9,2016,  Eastern Dwarf Tree Frog,  Litoria fallax,7,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Eerwah Vale,-26.47,152.89,2016,  Eastern Dwarf Tree Frog,  Litoria fallax,7,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Sippy Downs,-26.725281,153.07626,2016,  Eastern Dwarf Tree Frog,  Litoria fallax,49,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Yaroomba,-26.550433,153.095711,2016,  Eastern Dwarf Tree Frog,  Litoria fallax,5,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Yaroomba,-26.550433,153.095711,2016,  Eastern Dwarf Tree Frog,  Litoria fallax,2,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Coolum,-26.50674,153.091065,2016,  Graceful Tree Frog,  Litoria gracilenta,2,  https://www.frogid.net.au/frogs/litoria-gracilenta
+1,  Yaroomba,-26.550433,153.095711,2016,  Graceful Tree Frog,  Litoria latopalmata,6,  https://www.frogid.net.au/frogs/litoria-latopalmata
+2,  Coolum,-26.50674,153.091065,2016,  Wallum Sedge Frog,  Litoria olongburensis,7,  https://www.frogid.net.au/frogs/litoria-olongburensis
+3,  Eerwah Vale,-26.47,152.89,2016,  Peron's Tree Frog,  Litoria peronii,3,  https://www.frogid.net.au/frogs/litoria-peronii
+1,  Eerwah Vale,-26.47,152.89,2016,  Tyler's Tree Frog,  Litoria tyleri,8,  https://www.frogid.net.au/frogs/litoria-tyleri
+2,  Dulong,-26.64,152.9,2016,  Eastern Stony Creek Frog,  Litoria wilcoxii,3,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+3,  Eerwah Vale,-26.47,152.89,2016,  Eastern Stony Creek Frog,  Litoria wilcoxii,2,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+1,  Dulong,-26.64,152.9,2016,  Giant Barred Frog,  Mixophyes iteratus,12,  https://www.frogid.net.au/frogs/mixophyes-iteratus
+2,  Coolum,-26.50674,153.091065,2016,  Copper-backed Toadlet,  Pseudophryne raveni,4,  https://www.frogid.net.au/frogs/pseudophryne-raveni
+3,  Coolum,-26.50674,153.091065,2016,  Cane Toad,  Rhinella marina,2,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Eerwah Vale,-26.47,152.89,2016,  Cane Toad,  Rhinella marina,85,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Sippy Downs,-26.725281,153.07626,2016,  Cane Toad,  Rhinella marina,86,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Yaroomba,-26.550433,153.095711,2016,  Cane Toad,  Rhinella marina,29,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Dulong,-26.64,152.9,2017,  Tusked Frog,  Adelotus brevis,2,  https://www.frogid.net.au/frogs/adelotus-brevis
+2,  Coolum,-26.50674,153.091065,2017,  Wallum Froglet,  Crinia tinnula,14,  https://www.frogid.net.au/frogs/crinia-tinnula
+3,  Yaroomba,-26.550433,153.095711,2017,  Striped Marsh Frog,  Limnodynastes peronii,6,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Yaroomba,-26.550433,153.095711,2017,  Superb Banjo Frog,  Limnodynastes terraereginae,2,  https://www.frogid.net.au/frogs/limnodynastes-terraereginae
+2,  Coolum,-26.50674,153.091065,2017,  Eastern Dwarf Tree Frog,  Litoria fallax,6,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Dulong,-26.64,152.9,2017,  Eastern Dwarf Tree Frog,  Litoria fallax,6,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Eerwah Vale,-26.47,152.89,2017,  Eastern Dwarf Tree Frog,  Litoria fallax,17,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Yaroomba,-26.550433,153.095711,2017,  Eastern Dwarf Tree Frog,  Litoria fallax,2,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Yaroomba,-26.550433,153.095711,2017,  Eastern Dwarf Tree Frog,  Litoria fallax,2,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Coolum,-26.50674,153.091065,2017,  Graceful Tree Frog,  Litoria gracilenta,2,  https://www.frogid.net.au/frogs/litoria-gracilenta
+2,  Dulong,-26.64,152.9,2017,  Graceful Tree Frog,  Litoria gracilenta,3,  https://www.frogid.net.au/frogs/litoria-gracilenta
+3,  Eerwah Vale,-26.47,152.89,2017,  Graceful Tree Frog,  Litoria gracilenta,2,  https://www.frogid.net.au/frogs/litoria-gracilenta
+1,  Eerwah Vale,-26.47,152.89,2017,  Striped Rocket Frog,  Litoria nasuta,2,  https://www.frogid.net.au/frogs/litoria-nasuta
+2,  Coolum,-26.50674,153.091065,2017,  Wallum Sedge Frog,  Litoria olongburensis,4,  https://www.frogid.net.au/frogs/litoria-olongburensis
+3,  Dulong,-26.64,152.9,2017,  Eastern Stony Creek Frog,  Litoria wilcoxii,11,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+1,  Eerwah Vale,-26.47,152.89,2017,  Eastern Stony Creek Frog,  Litoria wilcoxii,4,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+2,  Eerwah Vale,-26.47,152.89,2017,  Eastern Stony Creek Frog,  LItoria wilcoxii,3,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+3,  Coolum,-26.50674,153.091065,2017,  Copper-backed Toadlet,  Pseudophryne raveni,3,  https://www.frogid.net.au/frogs/pseudophryne-raveni
+1,  Coolum,-26.50674,153.091065,2017,  Cane Toad,  Rhinella marina,4,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Eerwah Vale,-26.47,152.89,2017,  Cane Toad,  Rhinella marina,119,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Yaroomba,-26.550433,153.095711,2017,  Cane Toad,  Rhinella marina,23,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Dulong,-26.64,152.9,2018,  Tusked Frog,  Adelotus brevis,2,  https://www.frogid.net.au/frogs/adelotus-brevis
+2,  Coolum,-26.50674,153.091065,2018,  Wallum Froglet,  Crinia tinnula,9,  https://www.frogid.net.au/frogs/crinia-tinnula
+3,  Coolum,-26.50674,153.091065,2018,  Striped Marsh Frog,  Limnodynastes peronii,8,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Eerwah Vale,-26.47,152.89,2018,  Striped Marsh Frog,  Limnodynastes peronii,7,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+2,  Sippy Downs,-26.725281,153.07626,2018,  Striped Marsh Frog,  Limnodynastes peronii,25,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Eerwah Vale,-26.47,152.89,2018,  Green Tree Frog,  Litoria caerulea,2,  https://www.frogid.net.au/frogs/litoria-caerulea
+1,  Coolum,-26.50674,153.091065,2018,  Eastern Dwarf Tree Frog,  Litoria fallax,7,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Dulong,-26.64,152.9,2018,  Eastern Dwarf Tree Frog,  Litoria fallax,4,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Eerwah Vale,-26.47,152.89,2018,  Eastern Dwarf Tree Frog,  Litoria fallax,21,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Sippy Downs,-26.725281,153.07626,2018,  Eastern Dwarf Tree Frog,  Litoria fallax,41,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Yaroomba,-26.550433,153.095711,2018,  Eastern Dwarf Tree Frog,  Litoria fallax,15,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Coolum,-26.50674,153.091065,2018,  Graceful Tree Frog,  Litoria gracilenta,20,  https://www.frogid.net.au/frogs/litoria-gracilenta
+1,  Dulong,-26.64,152.9,2018,  Graceful Tree Frog,  Litoria gracilenta,2,  https://www.frogid.net.au/frogs/litoria-gracilenta
+2,  Eerwah Vale,-26.47,152.89,2018,  Graceful Tree Frog,  Litoria gracilenta,2,  https://www.frogid.net.au/frogs/litoria-gracilenta
+3,  Coolum,-26.50674,153.091065,2018,  Wallum Sedge Frog,  Litoria olongburensis,2,  https://www.frogid.net.au/frogs/litoria-olongburensis
+1,  Yaroomba,-26.550433,153.095711,2018,  Tyler's Tree Frog,  Litoria tyleri,10,  https://www.frogid.net.au/frogs/litoria-tyleri
+2,  Dulong,-26.64,152.9,2018,  Eastern Stony Creek Frog,  Litoria wilcoxii,8,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+3,  Eerwah Vale,-26.47,152.89,2018,  Eastern Stony Creek Frog,  Litoria wilcoxii,2,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+1,  Dulong,-26.64,152.9,2018,  Great Barred Frog,  Mixophyes fasciolatus,2,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+2,  Dulong,-26.64,152.9,2018,  Giant Barred Frog,  Mixophyes iteratus,2,  https://www.frogid.net.au/frogs/mixophyes-iteratus
+3,  Coolum,-26.50674,153.091065,2018,  Copper-backed Toadlet,  Pseudophryne raveni,5,  https://www.frogid.net.au/frogs/pseudophryne-raveni
+1,  Coolum,-26.50674,153.091065,2018,  Cane Toad,  Rhinella marina,7,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Dulong,-26.64,152.9,2018,  Cane Toad,  Rhinella marina,5,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Eerwah Vale,-26.47,152.89,2018,  Cane Toad,  Rhinella marina,36,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Sippy Downs,-26.725281,153.07626,2018,  Cane Toad,  Rhinella marina,116,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Yaroomba,-26.550433,153.095711,2018,  Cane Toad,  Rhinella marina,5,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Dulong,-26.64,152.9,2019,  Tusked Frog,  Adelotus brevis,3,  https://www.frogid.net.au/frogs/adelotus-brevis
+1,  Coolum,-26.50674,153.091065,2019,  Wallum Froglet,  Crinia tinnula,7,  https://www.frogid.net.au/frogs/crinia-tinnula
+2,  Eerwah Vale,-26.47,152.89,2019,  Striped Marsh Frog,  Limnodynastes peronii,8,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Sippy Downs,-26.725281,153.07626,2019,  Striped Marsh Frog,  Limnodynastes peronii,8,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Yaroomba,-26.550433,153.095711,2019,  Striped Marsh Frog,  Limnodynastes peronii,38,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+2,  Eerwah Vale,-26.47,152.89,2019,  Green Tree Frog,  Litoria caerulea,4,  https://www.frogid.net.au/frogs/litoria-caerulea
+3,  Coolum,-26.50674,153.091065,2019,  Eastern Dwarf Tree Frog,  Litoria fallax,11,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Dulong,-26.64,152.9,2019,  Eastern Dwarf Tree Frog,  Litoria fallax,14,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Eerwah Vale,-26.47,152.89,2019,  Eastern Dwarf Tree Frog,  Litoria fallax,22,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Sippy Downs,-26.725281,153.07626,2019,  Eastern Dwarf Tree Frog,  Litoria fallax,39,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Yaroomba,-26.550433,153.095711,2019,  Eastern Dwarf Tree Frog,  Litoria fallax,10,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Coolum,-26.50674,153.091065,2019,  Graceful Tree Frog,  Litoria gracilenta,2,  https://www.frogid.net.au/frogs/litoria-gracilenta
+3,  Eerwah Vale,-26.47,152.89,2019,  Graceful Tree Frog,  Litoria gracilenta,5,  https://www.frogid.net.au/frogs/litoria-gracilenta
+1,  Yaroomba,-26.550433,153.095711,2019,  Graceful Tree Frog,  Litoria gracilenta,4,  https://www.frogid.net.au/frogs/litoria-gracilenta
+2,  Coolum,-26.50674,153.091065,2019,  Wallum Sedge Frog,  Litoria olongburensis,6,  https://www.frogid.net.au/frogs/litoria-olongburensis
+3,  Dulong,-26.64,152.9,2019,  Pearson's Stream Frog,  Litoria pearsoniana,2,  https://www.frogid.net.au/frogs/litoria-pearsoniana
+1,  Eerwah Vale,-26.47,152.89,2019,  Peron's Tree Frog,  Litoria peronii,3,  https://www.frogid.net.au/frogs/litoria-peronii
+2,  Dulong,-26.64,152.9,2019,  Eastern Stony Creek Frog,  Litoria wilcoxii,17,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+3,  Coolum,-26.50674,153.091065,2019,  Cane Toad,  Rhinella marina,13,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Dulong,-26.64,152.9,2019,  Cane Toad,  Rhinella marina,4,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Eerwah Vale,-26.47,152.89,2019,  Cane Toad,  Rhinella marina,45,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Sippy Downs,-26.725281,153.07626,2019,  Cane Toad,  Rhinella marina,138,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Yaroomba,-26.550433,153.095711,2019,  Cane Toad,  Rhinella marina,35,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Dulong,-26.64,152.9,2020,  Tusked Frog,  Adelotus brevis,2,  https://www.frogid.net.au/frogs/adelotus-brevis
+3,  Coolum,-26.50674,153.091065,2020,  Striped Marsh Frog,  Limnodynastes peronii,7,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Sippy Downs,-26.725281,153.07626,2020,  Striped Marsh Frog,  Limnodynastes peronii,22,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+2,  Yaroomba,-26.550433,153.095711,2020,  Striped Marsh Frog,  Limnodynastes peronii,38,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Eerwah Vale,-26.47,152.89,2020,  Green Tree Frog,  Litoria caerulea,2,  https://www.frogid.net.au/frogs/litoria-caerulea
+1,  Eerwah Vale,-26.47,152.89,2020,  Robust Bleating Tree Frog,  Litoria dentata,2,  https://www.frogid.net.au/frogs/litoria-dentata
+2,  Coolum,-26.50674,153.091065,2020,  Eastern Dwarf Tree Frog,  Litoria fallax,14,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Dulong,-26.64,152.9,2020,  Eastern Dwarf Tree Frog,  Litoria fallax,3,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Eerwah Vale,-26.47,152.89,2020,  Eastern Dwarf Tree Frog,  Litoria fallax,13,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Sippy Downs,-26.725281,153.07626,2020,  Eastern Dwarf Tree Frog,  Litoria fallax,15,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Yaroomba,-26.550433,153.095711,2020,  Eastern Dwarf Tree Frog,  Litoria fallax,44,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Coolum,-26.50674,153.091065,2020,  Wallum Rocket Frog,  Litoria freycineti,2,  https://www.frogid.net.au/frogs/litoria-freycineti
+2,  Coolum,-26.50674,153.091065,2020,  Wallum Sedge Frog,  Litoria olongburensis,16,  https://www.frogid.net.au/frogs/litoria-olongburensis
+3,  Yaroomba,-26.550433,153.095711,2020,  Wallum Sedge Frog,  Litoria olongburensis,5,  https://www.frogid.net.au/frogs/litoria-olongburensis
+1,  Coolum,-26.50674,153.091065,2020,  Peron's Tree Frog,  Litoria peronii,2,  https://www.frogid.net.au/frogs/litoria-peronii
+2,  Eerwah Vale,-26.47,152.89,2020,  Peron's Tree Frog,  Litoria peronii,3,  https://www.frogid.net.au/frogs/litoria-peronii
+3,  Yaroomba,-26.550433,153.095711,2020,  Peron's Tree Frog,  Litoria peronii,19,  https://www.frogid.net.au/frogs/litoria-peronii
+1,  Coolum,-26.50674,153.091065,2020,  Tyler's Tree Frog,  Litoria tyleri,7,  https://www.frogid.net.au/frogs/litoria-tyleri
+2,  Eerwah Vale,-26.47,152.89,2020,  Tyler's Tree Frog,  Litoria tyleri,2,  https://www.frogid.net.au/frogs/litoria-tyleri
+3,  Yaroomba,-26.550433,153.095711,2020,  Tyler's Tree Frog,  Litoria tyleri,19,  https://www.frogid.net.au/frogs/litoria-tyleri
+1,  Dulong,-26.64,152.9,2020,  Eastern Stony Creek Frog,  Litoria wilcoxii,15,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+2,  Eerwah Vale,-26.47,152.89,2020,  Eastern Stony Creek Frog,  Litoria wilcoxii,3,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+3,  Coolum,-26.50674,153.091065,2020,  Cane Toad,  Rhinella marina,48,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Eerwah Vale,-26.47,152.89,2020,  Cane Toad,  Rhinella marina,14,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Sippy Downs,-26.725281,153.07626,2020,  Cane Toad,  Rhinella marina,143,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Yaroomba,-26.550433,153.095711,2020,  Cane Toad,  Rhinella marina,15,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Coolum,-26.50674,153.091065,2021,  Striped Marsh Frog,  Limnodynastes peronii,8,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+2,  Sippy Downs,-26.725281,153.07626,2021,  Striped Marsh Frog,  Limnodynastes peronii,22,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Yaroomba,-26.550433,153.095711,2021,  Striped Marsh Frog,  Limnodynastes peronii,74,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Coolum,-26.50674,153.091065,2021,  Green Tree Frog,  Litoria caerulea,2,  https://www.frogid.net.au/frogs/litoria-caerulea
+2,  Coolum,-26.50674,153.091065,2021,  Eastern Dwarf Tree Frog,  Litoria fallax,77,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Sippy Downs,-26.725281,153.07626,2021,  Eastern Dwarf Tree Frog,  Litoria fallax,34,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Yaroomba,-26.550433,153.095711,2021,  Eastern Dwarf Tree Frog,  Litoria fallax,56,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Coolum,-26.50674,153.091065,2021,  Graceful Tree Frog,  Litoria gracilenta,3,  https://www.frogid.net.au/frogs/litoria-gracilenta
+3,  Coolum,-26.50674,153.091065,2021,  Wallum Sedge Frog,  Litoria olongburensis,17,  https://www.frogid.net.au/frogs/litoria-olongburensis
+1,  Yaroomba,-26.550433,153.095711,2021,  Tyler's Tree Frog,  Litoria tyleri,39,  https://www.frogid.net.au/frogs/litoria-tyleri
+2,  Coolum,-26.50674,153.091065,2021,  Cane Toad,  Rhinella marina,14,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Sippy Downs,-26.725281,153.07626,2021,  Cane Toad,  Rhinella marina,41,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Yaroomba,-26.550433,153.095711,2021,  Cane Toad,  Rhinella marina,35,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Dulong,-26.64,152.9,2022,  Tusked Frog,  Adelotus brevis,3,  https://www.frogid.net.au/frogs/adelotus-brevis
+3,  Coolum,-26.50674,153.091065,2022,  Wallum Froglet,  Crinia tinnula,2,  https://www.frogid.net.au/frogs/crinia-tinnula
+1,  Sippy Downs,-26.725281,153.07626,2022,  Wallum Froglet,  Crinia tinnula,3,  https://www.frogid.net.au/frogs/crinia-tinnula
+2,  Coolum,-26.50674,153.091065,2022,  Striped Marsh Frog,  Limnodynastes peronii,3,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Sippy Downs,-26.725281,153.07626,2022,  Striped Marsh Frog,  Limnodynastes peronii,11,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Yaroomba,-26.550433,153.095711,2022,  Striped Marsh Frog,  Limnodynastes peronii,85,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+2,  Yaroomba,-26.550433,153.095711,2022,  Green Tree Frog,  Litoria caerulea,2,  https://www.frogid.net.au/frogs/litoria-caerulea
+3,  Coolum,-26.50674,153.091065,2022,  Eastern Dwarf Tree Frog,  Litoria fallax,49,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Dulong,-26.64,152.9,2022,  Eastern Dwarf Tree Frog,  Litoria fallax,14,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Sippy Downs,-26.725281,153.07626,2022,  Eastern Dwarf Tree Frog,  Litoria fallax,42,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Yaroomba,-26.550433,153.095711,2022,  Eastern Dwarf Tree Frog,  Litoria fallax,52,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Coolum,-26.50674,153.091065,2022,  Graceful Tree Frog,  Litoria gracilenta,3,  https://www.frogid.net.au/frogs/litoria-gracilenta
+2,  Yaroomba,-26.550433,153.095711,2022,  Graceful Tree Frog,  Litoria gracilenta,7,  https://www.frogid.net.au/frogs/litoria-gracilenta
+3,  Coolum,-26.50674,153.091065,2022,  Wallum Sedge Frog,  Litoria olongburensis,2,  https://www.frogid.net.au/frogs/litoria-olongburensis
+1,  Yaroomba,-26.550433,153.095711,2022,  Tyler's Tree Frog,  Litoria tyleri,43,  https://www.frogid.net.au/frogs/litoria-tyleri
+2,  Dulong,-26.64,152.9,2022,  Eastern Stony Creek Frog,  Litoria wilcoxii,10,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+3,  Dulong,-26.64,152.9,2022,  Great Barred Frog,  Mixophyes fasciolatus,8,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+1,  Dulong,-26.64,152.9,2022,  Giant Barred Frog,  Mixophyes iteratus,3,  https://www.frogid.net.au/frogs/mixophyes-iteratus
+2,  Coolum,-26.50674,153.091065,2022,  Cane Toad,  Rhinella marina,5,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Sippy Downs,-26.725281,153.07626,2022,  Cane Toad,  Rhinella marina,19,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Yaroomba,-26.550433,153.095711,2022,  Cane Toad,  Rhinella marina,32,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Dulong,-26.64,152.9,2023,  Tusked Frog,  Adelotus brevis,3,  https://www.frogid.net.au/frogs/adelotus-brevis
+3,  MRBBG,-26.71882,153.023028,2023,  Tusked Frog,  Adelotus brevis,5,  https://www.frogid.net.au/frogs/adelotus-brevis
+1,  Coolum,-26.50674,153.091065,2023,  Wallum Froglet,  Crinia tinnula,3,  https://www.frogid.net.au/frogs/crinia-tinnula
+2,  Coolum,-26.50674,153.091065,2023,  Striped Marsh Frog,  Limnodynastes peronii,2,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Sippy Downs,-26.725281,153.07626,2023,  Striped Marsh Frog,  Limnodynastes peronii,4,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Yaroomba,-26.550433,153.095711,2023,  Striped Marsh Frog,  Limnodynastes peronii,6,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+2,  Coolum,-26.50674,153.091065,2023,  Eastern Dwarf Tree Frog,  Litoria fallax,23,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Dulong,-26.64,152.9,2023,  Eastern Dwarf Tree Frog,  Litoria fallax,3,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Sippy Downs,-26.725281,153.07626,2023,  Eastern Dwarf Tree Frog,  Litoria fallax,30,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Yaroomba,-26.550433,153.095711,2023,  Eastern Dwarf Tree Frog,  Litoria fallax,4,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Coolum,-26.50674,153.091065,2023,  Wallum Sedge Frog,  Litoria olongburensis,34,  https://www.frogid.net.au/frogs/litoria-olongburensis
+1,  MRBBG,-26.71882,153.023028,2023,  Tyler's Tree Frog,  Litoria tyleri,2,  https://www.frogid.net.au/frogs/litoria-tyleri
+2,  Dulong,-26.64,152.9,2023,  Eastern Stony Creek Frog,  Litoria wilcoxii,9,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+3,  Dulong,-26.64,152.9,2023,  Great Barred Frog,  Mixophyes fasciolatus,3,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+1,  MRBBG,-26.71882,153.023028,2023,  Great Barred Frog,  Mixophyes fasciolatus,6,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+2,  MRBBG,-26.71882,153.023028,2023,  Great Barred Frog,  Mixophyes fasciolatus,2,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+3,  Dulong,-26.64,152.9,2023,  Giant Barred Frog,  Mixophyes iteratus,4,  https://www.frogid.net.au/frogs/mixophyes-iteratus
+1,  Coolum,-26.50674,153.091065,2023,  Cane Toad,  Rhinella marina,6,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  MRBBG,-26.71882,153.023028,2023,  Cane Toad,  Rhinella marina,21,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Sippy Downs,-26.725281,153.07626,2023,  Cane Toad,  Rhinella marina,21,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Yaroomba,-26.550433,153.095711,2023,  Cane Toad,  Rhinella marina,45,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Dulong,-26.64,152.9,2024,  Tusked Frog,  Adelotus brevis,3,  https://www.frogid.net.au/frogs/adelotus-brevis
+3,  MRBBG,-26.71882,153.023028,2024,  Tusked Frog,  Adelotus brevis,6,  https://www.frogid.net.au/frogs/adelotus-brevis
+1,  Sippy Downs,-26.725281,153.07626,2024,  Striped Marsh Frog,  Limnodynastes peronii,17,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+2,  Yaroomba,-26.550433,153.095711,2024,  Striped Marsh Frog,  Limnodynastes peronii,18,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  Coolum,-26.50674,153.091065,2024,  Eastern Dwarf Tree Frog,  Litoria fallax,39,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Dulong,-26.64,152.9,2024,  Eastern Dwarf Tree Frog,  Litoria fallax,3,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  Sippy Downs,-26.725281,153.07626,2024,  Eastern Dwarf Tree Frog,  Litoria fallax,30,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Yaroomba,-26.550433,153.095711,2024,  Eastern Dwarf Tree Frog,  Litoria fallax,36,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Coolum,-26.50674,153.091065,2024,  Wallum Sedge Frog,  Litoria olongburensis,3,  https://www.frogid.net.au/frogs/litoria-olongburensis
+2,  MRBBG,-26.71882,153.023028,2024,  Tyler's Tree Frog,  Litoria tyleri,4,  https://www.frogid.net.au/frogs/litoria-tyleri
+3,  Yaroomba,-26.550433,153.095711,2024,  Tyler's Tree Frog,  Litoria tyleri,15,  https://www.frogid.net.au/frogs/litoria-tyleri
+1,  Dulong,-26.64,152.9,2024,  Eastern Stony Creek Frog,  Litoria wilcoxii,19,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+2,  Dulong,-26.64,152.9,2024,  Great Barred Frog,  Mixophyes fasciolatus,6,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+3,  MRBBG,-26.71882,153.023028,2024,  Great Barred Frog,  Mixophyes fasciolatus,27,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+1,  Dulong,-26.64,152.9,2024,  Giant Barred Frog,  Mixophyes iteratus,6,  https://www.frogid.net.au/frogs/mixophyes-iteratus
+2,  Coolum,-26.50674,153.091065,2024,  Cane Toad,  Rhinella marina,8,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Dulong,-26.64,152.9,2024,  Cane Toad,  Rhinella marina,2,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  MRBBG,-26.71882,153.023028,2024,  Cane Toad,  Rhinella marina,31,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Sippy Downs,-26.725281,153.07626,2024,  Cane Toad,  Rhinella marina,73,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  Yaroomba,-26.550433,153.095711,2024,  Cane Toad,  Rhinella marina,48,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Dulong,-26.64,152.9,2025,  Tusked Frog,  Adelotus brevis,11,  https://www.frogid.net.au/frogs/adelotus-brevis
+2,  Maleny,-26.760438,152.851298,2025,  Tusked Frog,  Adelotus brevis,2,  https://www.frogid.net.au/frogs/adelotus-brevis
+3,  MRBBG,-26.71882,153.023028,2025,  Tusked Frog,  Adelotus brevis,5,  https://www.frogid.net.au/frogs/adelotus-brevis
+1,  Dulong,-26.64,152.9,2025,  Eastern Sign-bearing Froglet,  Crinia parinsignifera,6,  https://www.frogid.net.au/frogs/crinia-parinsignifera
+2,  Dulong,-26.64,152.9,2025,  Striped Marsh Frog,  Limnodynastes peronii,2,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+3,  MRBBG,-26.71882,153.023028,2025,  Striped Marsh Frog,  Limnodynastes peronii,7,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+1,  Yaroomba,-26.550433,153.095711,2025,  Striped Marsh Frog,  Limnodynastes peronii,5,  https://www.frogid.net.au/frogs/limnodynastes-peronii
+2,  Maleny,-26.760438,152.851298,2025,  Green Tree Frog,  Litoria caerulea,2,  https://www.frogid.net.au/frogs/litoria-caerulea
+3,  Coolum,-26.50674,153.091065,2025,  Eastern Dwarf Tree Frog,  Litoria fallax,31,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Dulong,-26.64,152.9,2025,  Eastern Dwarf Tree Frog,  Litoria fallax,2,  https://www.frogid.net.au/frogs/litoria-fallax
+2,  MRBBG,-26.71882,153.023028,2025,  Eastern Dwarf Tree Frog,  Litoria fallax,2,  https://www.frogid.net.au/frogs/litoria-fallax
+3,  Yaroomba,-26.550433,153.095711,2025,  Eastern Dwarf Tree Frog,  Litoria fallax,47,  https://www.frogid.net.au/frogs/litoria-fallax
+1,  Coolum,-26.50674,153.091065,2025,  Graceful Tree Frog,  Litoria gracilenta,3,  https://www.frogid.net.au/frogs/litoria-gracilenta
+2,  Maleny,-26.760438,152.851298,2025,  Graceful Tree Frog,  Litoria gracilenta,3,  https://www.frogid.net.au/frogs/litoria-gracilenta
+3,  MRBBG,-26.71882,153.023028,2025,  Graceful Tree Frog,  Litoria gracilenta,2,  https://www.frogid.net.au/frogs/litoria-gracilenta
+1,  Coolum,-26.50674,153.091065,2025,  Wallum Sedge Frog,  Litoria olongburensis,2,  https://www.frogid.net.au/frogs/litoria-olongburensis
+2,  Yaroomba,-26.550433,153.095711,2025,  Peron's Tree Frog,  Litoria peronii,2,  https://www.frogid.net.au/frogs/litoria-peronii
+3,  Yaroomba,-26.550433,153.095711,2025,  Red Tree Frog,  Litoria rubella,3,  https://www.frogid.net.au/frogs/litoria-rubella
+1,  Yaroomba,-26.550433,153.095711,2025,  Tyler's Tree Frog,  Litoria tyleri,15,  https://www.frogid.net.au/frogs/litoria-tyleri
+2,  Dulong,-26.64,152.9,2025,  Eastern Stony Creek Frog,  Litoria wilcoxii,10,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+3,  Maleny,-26.760438,152.851298,2025,  Eastern Stony Creek Frog,  Litoria wilcoxii,2,  https://www.frogid.net.au/frogs/litoria-wilcoxii
+1,  Dulong,-26.64,152.9,2025,  Great Barred Frog,  Mixophyes fasciolatus,17,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+2,  Maleny,-26.760438,152.851298,2025,  Great Barred Frog,  Mixophyes fasciolatus,81,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+3,  MRBBG,-26.71882,153.023028,2025,  Great Barred Frog,  Mixophyes fasciolatus,9,  https://www.frogid.net.au/frogs/mixophyes-fasciolatus
+1,  Dulong,-26.64,152.9,2025,  Giant Barred Frog,  Mixophyes iteratus,12,  https://www.frogid.net.au/frogs/mixophyes-iteratus
+2,  Maleny,-26.760438,152.851298,2025,  Giant Barred Frog,  Mixophyes iteratus,46,  https://www.frogid.net.au/frogs/mixophyes-iteratus
+3,  Coolum,-26.50674,153.091065,2025,  Cane Toad,  Rhinella marina,8,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Dulong,-26.64,152.9,2025,  Cane Toad,  Rhinella marina,6,  https://www.frogid.net.au/frogs/rhinella-marina
+2,  Maleny,-26.760438,152.851298,2025,  Cane Toad,  Rhinella marina,33,  https://www.frogid.net.au/frogs/rhinella-marina
+3,  MRBBG,-26.71882,153.023028,2025,  Cane Toad,  Rhinella marina,11,  https://www.frogid.net.au/frogs/rhinella-marina
+1,  Yaroomba,-26.550433,153.095711,2025,  Cane Toad,  Rhinella marina,54,  https://www.frogid.net.au/frogs/rhinella-marina
