@@ -1,4 +1,4 @@
-site_number,Site_Name,Lat,Lon,Year,Common_Name,Species_Name,Total_Count,Frog_ID_URL
+site_number,site_name,lat,lon,year,common_name,species_name,total_count,url
 1,  Coolum,-26.50674,153.091065,2014,  Wallum Froglet,  Crinia tinnula,2,  https://www.frogid.net.au/frogs/crinia-tinnula
 2,  Dulong,-26.64,152.9,2014,  Striped Marsh Frog,  Limnodynastes peronii,5,  https://www.frogid.net.au/frogs/limnodynastes-peronii
 3,  Coolum,-26.50674,153.091065,2014,  Green Tree Frog,  Litoria caerulea,2,  https://www.frogid.net.au/frogs/litoria-caerulea
