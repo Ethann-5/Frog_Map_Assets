@@ -1,9 +1,8 @@
 site_name,lat,lon,description,image
-Coolum,-26.50674,153.091065,This site is in Coolum,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Giant_Barred.jpeg
-Dulong,-26.64,152.9,This site is in Dulong,
-Eerwah Vale,-26.47,152.89,This site is in Eerwah Vale,
-Yaroomba,-26.550433,153.095711,This site is in Yaroomba,
-Sippy Downs,-26.725281,153.07626,This site is in Sippy Downs,
-MRBBG,-26.71882,153.023028,This site is in Maroochydore,
-Maleny,-26.760438,152.851298,This site is in Maleny,
-
+  Coolum,-26.50674,153.091065,This site is in Coolum,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Giant_Barred.jpeg
+  Dulong,-26.64,152.9,This site is in Dulong,
+  Eerwah Vale,-26.47,152.89,This site is in Eerwah Vale,
+  Yaroomba,-26.550433,153.095711,This site is in Yaroomba,
+  Sippy Downs,-26.725281,153.07626,This site is in Sippy Downs,
+  MRBBG,-26.71882,153.023028,This site is in Maroochydore,
+  Maleny,-26.760438,152.851298,This site is in Maroochydore,
