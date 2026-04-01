@@ -1,8 +1,8 @@
 site_name,lat,lon,description,image1,image2
-  Coolum,-26.50674,153.091065,This site is in Coolum,https://www.sunshinebeachaccommodation.com.au/wp-content/uploads/2023/02/Coolum-Accommodation-3.jpg,https://www.sunshinecoastnews.com.au/wp-content/uploads/2021/11/Sunshine-Coast-News-Bower-Tree-scaled-e1637649721273-696x365.jpg
-  Dulong,-26.64,152.9,This site is in Dulong,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Green_country._Dulong_Lookout%2C_Sunshine_coast%2C_Australia_%2840926065122%29.jpg/330px-Green_country._Dulong_Lookout%2C_Sunshine_coast%2C_Australia_%2840926065122%29.jpg,
+  Coolum,-26.50674,153.091065,This site is in Coolum,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Coolum_Map.tif,https://www.wikiloc.com/trails/hiking/australia/queensland/eerwah-vale
+  Dulong,-26.64,152.9,This site is in Dulong,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Dulong_a.jpg,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Dulong_b.jpg
   Eerwah Vale,-26.47,152.89,This site is in Eerwah Vale,https://www.wikiloc.com/trails/hiking/australia/queensland/eerwah-vale,
-  Yaroomba,-26.550433,153.095711,This site is in Yaroomba,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c2/99/f0/boardwalk-near-beachside.jpg?w=700&h=700&s=1,
-  Sippy Downs,-26.725281,153.07626,This site is in Sippy Downs,https://www.sunshinecoastnews.com.au/wp-content/uploads/2021/11/Sunshine-Coast-News-Bower-Tree-scaled-e1637649721273-696x365.jpg,
-  MRBBG,-26.71882,153.023028,This site is in Maroochydore,https://assets-au-scc.kc-usercontent.com/330b87ea-148b-3ecf-9857-698f2086fe8d/6bc59ca8-9ec5-41d9-999e-3917a115eb0a/711%20Banner%20Homepage.jpg?h=800&fm=webp,
+  Yaroomba,-26.550433,153.095711,This site is in Yaroomba,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Yaroomba_Map.tif,
+  Sippy Downs,-26.725281,153.07626,This site is in Sippy Downs,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/SippyDowns_Map.tif,
+  MRBBG,-26.71882,153.023028,This site is in Maroochydore,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/MRBG_Map.tif,
   Maleny,-26.760438,152.851298,This site is in Maleny,https://s7ap1.scene7.com/is/image/destqueensland/teq/consumer/global/images/destinations/sunshine-coast/blog-images/Maleny.jpg?bfc=on&fit=wrap&fmt=webp&qlt=100&resMode=bisharp&wid=1200,
