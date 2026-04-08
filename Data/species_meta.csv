@@ -1,4 +1,4 @@
-common_name,species_name,url,image1,image_credit,iucn
+common_name,species_name,url,image,image_credit,iucn
 Cane Toad,Rhinella marina,https://www.frogid.net.au/frogs/rhinella-marina,"https://res.cloudinary.com/ausmus/image/upload/c_fill,g_auto,h_450,q_auto,w_800/cv7vtfcgodecewypxfnc",Jodi Rowley (FrogID),Least Concern
 Copper-backed Toadlet,Pseudophryne raveni,https://www.frogid.net.au/frogs/pseudophryne-raveni,"https://res.cloudinary.com/ausmus/image/upload/c_fill,g_auto,h_450,q_auto,w_800/luwflcw7x7zcd0adqj5p",Adam Parsons (FrogID),Least Concern
 Eastern Sedge Frog,Litoria fallax,https://www.frogid.net.au/frogs/litoria-fallax,https://raw.githubusercontent.com/Ethann-5/Frog_Map_Assets/main/Images/Frogs/Eastern_Segde_Frog.jpeg,Need ID,Least Concern
